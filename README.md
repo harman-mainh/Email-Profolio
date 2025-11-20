@@ -134,7 +134,7 @@ Harman Resume
     <button class="view-btn" id="desktopBtn" class="active">🖥️ Desktop View</button>
     <button class="view-btn" id="mobileBtn">📱 Mobile View</button>
     <button id="modeBtn">🌙 Dark Mode</button>
-    <button><a href="resume.pdf" download class="download-btn">⬇️ Download Résumé</a></button>
+    <button><a href="HARMAN MAINH.pdf" download class="download-btn">⬇️ Download Résumé</a></button>
   </div>
   <div id="emailBox" class="email-container desktop-view">
     <div role="article" aria-roledescription="email" aria-label="Harman Resume Email" lang="en" dir="ltr" style="font-size:medium; font-size:max(16px, 1rem)">  
